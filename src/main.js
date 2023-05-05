@@ -12,3 +12,4 @@ const questao2 = document.querySelector("#questao2")
 questao2.innerHTML = resultado
 
 
+
