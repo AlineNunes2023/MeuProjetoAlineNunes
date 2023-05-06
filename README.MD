@@ -17,13 +17,13 @@
 
 ## Resumo do projeto
 
-O que é preciso fazer? 
+> O que é preciso fazer? 
 
 Você usará o que foi aprendido sobre entrada e saída de dados com `prompt()` e `alert()` para receber informações sobre o usuário da sua aplicação e em seguida exibi-las na tela. 
 
 O que deve ser feito: 
 
-- Elabore um programa que leia um numero e devolva para o usuário o dobro do número informado.
+✅ Elabore um programa que leia um numero e devolva para o usuário o dobro do número informado.
 
 
 ~~~javascript
@@ -34,7 +34,7 @@ O que deve ser feito:
 
 ~~~
   
-- Elabore um programa que calcule o valor do jantar, sendo o valor total do jantar composto pela conta junto com a taxa de atendimento do garçom. 
+✅ Elabore um programa que calcule o valor do jantar, sendo o valor total do jantar composto pela conta junto com a taxa de atendimento do garçom. 
 
 ~~~javascript
 
@@ -45,7 +45,7 @@ O que deve ser feito:
 ~~~
 
   
-- Elabore um programa para uma pizzaria, o qual leia o valor total de uma conta e quantos clientes vão pagá-la. Calcule e informe o valor a ser pago por cliente. 
+✅ Elabore um programa para uma pizzaria, o qual leia o valor total de uma conta e quantos clientes vão pagá-la. Calcule e informe o valor a ser pago por cliente. 
 
 ~~~javascript
 
